@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cwstarter:
+    image: cwstarter
+    build:
+      context: .
+      dockerfile: ./Dockerfile
