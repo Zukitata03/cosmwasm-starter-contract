@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "fix-path": "^4.0.0"
-  }
+    "cosmwasm": "^1.1.1",
+    "dotenv": "^16.4.5"
+  },
+  "type": "module"
 }
